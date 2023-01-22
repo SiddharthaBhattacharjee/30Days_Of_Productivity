@@ -8,6 +8,6 @@ I hope to improve my consistency as well as my skills by taking part in this cha
 As it is famously said "Consistency is the key to success" and "Motivation is temporary, consistancy is permanent"<br>
 Thank you CodeChef SRM RMP Family for starting this wonderful challenge, it is sure to make a great and consistant work environment in the Club.<br>
 
-<b> CHECK PROGRESS HERE : [logs.md](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity)<br>
+<b> CHECK PROGRESS HERE : [logs.md](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity/blob/main/logs.md)<br>
 FOLLOW ME ON TWITTER TO STAY UPDATED : [@Siddhartha_2345](https://twitter.com/Siddhartha_2345)
 
