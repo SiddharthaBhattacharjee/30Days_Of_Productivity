@@ -1,7 +1,7 @@
 # Rules of 30Days of Productivity
 
 1) Be productive i.e. code/work regularly for 30 Days straight.
-2) Update the work youv'e done daily on [logs.md]() and [twitter]() 
+2) Update the work youv'e done daily on [logs.md](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity/blob/main/logs.md) and [twitter](https://twitter.com/Siddhartha_2345) 
 3) Have to work 6 days a week (Monday-Saturday)
 4) If you can't work on any 1 day of the week, compencate for it by working on sunday.
 5) Exception can be made on the 6 days a week work rule only in cases of exams.
