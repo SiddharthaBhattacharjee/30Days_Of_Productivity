@@ -12,3 +12,8 @@ This can be treated as my proof of work for the challenge.
     It took me 2 Hrs and 37 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 23rd Jan 2023](https://github.com/SiddharthaBhattacharjee/Password_Wallet_D-app/commit/f95ac14bf0c38477845ac6281cbc7b930c22abf3)
  
+- ## Day-2 , 24th Jan 2023 :
+    Today, I started working on the Frontend of the Password Walled Decentralised Application project. I am working with ReactJS for the front end of the project.🗒️<br>
+    I have completed the essential parts of the frontend which includes fetching data from block-chain, displaying data, adding and deleting data to the block-chain, a loading screen while wallet is being connected, as well as a way to keep the passwords hidden in the screen.💻 More featured to be added tomorrow.<br>
+    It took me 3 Hrs and 20 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 24th Jan 2023](https://github.com/SiddharthaBhattacharjee/Password_Wallet_D-app/commit/3885d1dc9ed504866bdd1c70f73555290ffa4cc8)
