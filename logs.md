@@ -17,3 +17,9 @@ This can be treated as my proof of work for the challenge.
     I have completed the essential parts of the frontend which includes fetching data from block-chain, displaying data, adding and deleting data to the block-chain, a loading screen while wallet is being connected, as well as a way to keep the passwords hidden in the screen.💻 More featured to be added tomorrow.<br>
     It took me 3 Hrs and 20 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 24th Jan 2023](https://github.com/SiddharthaBhattacharjee/Password_Wallet_D-app/commit/3885d1dc9ed504866bdd1c70f73555290ffa4cc8)
+
+- ## Day-3 , 25th Jan 2023 :
+    Today, I continued on the Decentralised Application project I started working on and I have finished both client and blockchain side of the project. i.e. The project is completed!🎊 First project down under 30DaysOfProductivity, many more projects to work on and much more to learn.📈<br>
+    Continued from where I left behind yesterday, added the generate password feature that generates random password for users to use, added the edit and copy button alongside the data, implemented the function to allow data editing.💻.<br>
+    It took me 5 Hrs and 20 mins to complete todays coding work⏱️ (including looong debugging sessions 🥲)<br>
+    Link to GutHub Commit : [Pushed 25th Jan 2023](https://github.com/SiddharthaBhattacharjee/Password_Wallet_D-app/commit/2f13c70dc04a0720ba82b6cd40775604e8301496)
