@@ -23,3 +23,9 @@ This can be treated as my proof of work for the challenge.
     Continued from where I left behind yesterday, added the generate password feature that generates random password for users to use, added the edit and copy button alongside the data, implemented the function to allow data editing.💻.<br>
     It took me 5 Hrs and 20 mins to complete todays coding work⏱️ (including looong debugging sessions 🥲)<br>
     Link to GutHub Commit : [Pushed 25th Jan 2023](https://github.com/SiddharthaBhattacharjee/Password_Wallet_D-app/commit/2f13c70dc04a0720ba82b6cd40775604e8301496)
+
+- ## Day-4 , 26th Jan 2023 :
+    Today, I created a new smartcontract in solidity and hardhat.📃<br>
+    This smartcontract is for a custom virtual token system and includes functions to add, subtract, read, and transfer tokens between users. I created this as a general purpose virtual token contract which can be used in various future projects. Used Solidity to write the contract and HardHat and Chai to run tests on the contract.💻 THE CONTRACT ALSO WORKS ON REMIX IDE AND CAN BE TESTED EASILY THERE.<br>
+    It took me 3 Hrs to complete todays coding work⏱️ <br>
+    Link to GutHub Commit : [Pushed 26th Jan 2023](https://github.com/SiddharthaBhattacharjee/VirtualToken_Exchange_Contract/commit/d50365ab9a7bea92930a2df24d4b1e39baf866f1)
