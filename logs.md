@@ -29,3 +29,10 @@ This can be treated as my proof of work for the challenge.
     This smartcontract is for a custom virtual token system and includes functions to add, subtract, read, and transfer tokens between users. I created this as a general purpose virtual token contract which can be used in various future projects. Used Solidity to write the contract and HardHat and Chai to run tests on the contract.💻 THE CONTRACT ALSO WORKS ON REMIX IDE AND CAN BE TESTED EASILY THERE.<br>
     It took me 3 Hrs to complete todays coding work⏱️ <br>
     Link to GutHub Commit : [Pushed 26th Jan 2023](https://github.com/SiddharthaBhattacharjee/VirtualToken_Exchange_Contract/commit/d50365ab9a7bea92930a2df24d4b1e39baf866f1)
+
+- ## Day-5 , 27th Jan 2023 :
+    Today, I went to Satyabama University Chennai to organise the Shardeum Campus awareness workshop with [Prayasu Bro](https://twitter.com/ThePrayasu), check out the [tweet](https://twitter.com/Siddhartha_2345/status/1619016774527373314) to know more. Other than that , I created a new voting system smartcontract in solidity using Remix IDE.📃<br>
+    In DAOs (Decentralised Autonomous Organisations) there is no higherarchy, the members earn points by contributing to the DAO and each point allows them to cast a vote in any desigion making of the DAO. SO the more a member contributes to the DAO, the more desigion making power they have.👥 In this smart contract, I created the same system of point based voting structure of a DAO using solidity. Created this contract on Remix ide using solidity, the purpose being to practice and improve my solidity smart contracts, and these general purpose contracts might be used in future projects.💻<br>
+    Also updated our class time table Android app by adding the latest time table and the new classroom number/lab venue data.📱<br>
+    It took me 1 Hr 40 mins to complete todays coding work⏱️ (on top of 4 hrs webinar + 3 hrs of travel time 🥲 It's been an exhausting day.) <br>
+    Link to GutHub Commit : [Pushed 27th Jan 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/a64dc4a75430d6752d87a0ef288f40dac772d660)
