@@ -36,3 +36,10 @@ This can be treated as my proof of work for the challenge.
     Also updated our class time table Android app by adding the latest time table and the new classroom number/lab venue data.📱<br>
     It took me 1 Hr 40 mins to complete todays coding work⏱️ (on top of 4 hrs webinar + 3 hrs of travel time 🥲 It's been an exhausting day.) <br>
     Link to GutHub Commit : [Pushed 27th Jan 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/a64dc4a75430d6752d87a0ef288f40dac772d660)
+
+- ## Day-6 , 28th Jan 2023 :
+    Today, I have started to learn Backend development with NodeJS , ExpressJS and MongoDB, I have started following a free cource by FreeCodeCamp on Youtube.▶️<br>
+    click [here](https://www.youtube.com/watch?v=Oe421EPjeBE) to checkout the cource.<br>
+    Today , I got to learn about the basics of Node JS , its use cases, how its different from normal JS, about how to use the REPL and CLT , how to execute in node JS, Global variables ( \_\_dirname ,\_\_filename, require, module, process), modules and how to export in modules .💻 Wrote some code while learning since the cource is hands on.<br>
+    It took me 2 Hrs to complete todays coding work⏱️ (Including the handwriten notes I am taking from the cource) <br>
+    Link to GutHub Commit : [Pushed 28th Jan 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/16a5b9e276848c5caa1abc7d89c6a72b2f51a786)
