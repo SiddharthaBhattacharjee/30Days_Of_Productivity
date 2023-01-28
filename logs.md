@@ -40,6 +40,6 @@ This can be treated as my proof of work for the challenge.
 - ## Day-6 , 28th Jan 2023 :
     Today, I have started to learn Backend development with NodeJS , ExpressJS and MongoDB, I have started following a free cource by FreeCodeCamp on Youtube.▶️<br>
     click [here](https://www.youtube.com/watch?v=Oe421EPjeBE) to checkout the cource.<br>
-    Today , I got to learn about the basics of Node JS , its use cases, how its different from normal JS, about how to use the REPL and CLT , how to execute in node JS, Global variables ( \_\_dirname ,\_\_filename, require, module, process), modules and how to export in modules .💻 Wrote some code while learning since the cource is hands on.<br>
+    Today , I got to learn about the basics of Node JS , its use cases, how its different from normal JS, about how to use the REPL and CLI , how to execute in node JS, Global variables ( \_\_dirname ,\_\_filename, require, module, process), modules and how to export in modules .💻 Wrote some code while learning since the cource is hands on.<br>
     It took me 2 Hrs to complete todays coding work⏱️ (Including the handwriten notes I am taking from the cource) <br>
     Link to GutHub Commit : [Pushed 28th Jan 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/16a5b9e276848c5caa1abc7d89c6a72b2f51a786)
