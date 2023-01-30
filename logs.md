@@ -42,4 +42,14 @@ This can be treated as my proof of work for the challenge.
     click [here](https://www.youtube.com/watch?v=Oe421EPjeBE) to checkout the cource.<br>
     Today , I got to learn about the basics of Node JS , its use cases, how its different from normal JS, about how to use the REPL and CLI , how to execute in node JS, Global variables ( \_\_dirname ,\_\_filename, require, module, process), modules and how to export in modules .💻 Wrote some code while learning since the cource is hands on.<br>
     It took me 2 Hrs to complete todays coding work⏱️ (Including the handwriten notes I am taking from the cource) <br>
-    Link to GutHub Commit : [Pushed 28th Jan 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/16a5b9e276848c5caa1abc7d89c6a72b2f51a786)
+    Link to GutHub Commit : [Pushed 30th Jan 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/49ba9401bede0f540c034136f57ebf23c67d1214)
+
+- ## SUNDAY , 29th Jan 2023 :
+    sundays are break day !
+
+- ## Day-7 , 30th Jan 2023 :
+    Today, I created two new smartcontracts in solidity using Remix IDE.📃<br>
+    The first one is the game highscore smart contract that keeps the highscore of a game in the blockchain immutablely making it secure, second one is a message storing smart contract, it is a contract that allows users to send and recieve uneditable and undeletable permanent messages, which makes it very secure for various trust purposes such as aggrements💻.<br>
+    Also, Today I went to SRM KTR campus for the Shardeum Campus Workshop event, it was a log journey to both get there and to come back, and hence I was very exhausted to continue the backend course today, I will resume the course from tomorrow!<br>
+    It took me 1 Hrs to complete todays coding work⏱️ <br>
+    Link to GutHub Commit : [Pushed 26th Jan 2023](https://github.com/SiddharthaBhattacharjee/VirtualToken_Exchange_Contract/commit/d50365ab9a7bea92930a2df24d4b1e39baf866f1)
