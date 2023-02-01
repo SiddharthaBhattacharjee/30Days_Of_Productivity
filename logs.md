@@ -60,3 +60,10 @@ This can be treated as my proof of work for the challenge.
     Also, I am taking hand written notes of this course for my future reference as well as better understanding in presence.✍️<br>
     It took me 2 Hrs to complete todays coding work⏱️(Including writing notes) <br>
     Link to GutHub Commit : [Pushed 31st Jan 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/6ca3a1246d01576910fc40891d8c9a8da9f35dce)
+
+- ## Day-9 , 1st Feb 2023 :
+    Today, I continued the FreeCodeCamp Backend cource in NodeJS and Express JS.📃<br>
+    Learnt about Path Module, Syncronus File Handling system and Asyncronus File Handling system in Node JS💻.<br>
+    Also, I am taking hand written notes of this course for my future reference as well as better understanding in presence.✍️<br>
+    It took me 1 Hr 15 mins to complete todays coding work⏱️(Including writing notes) <br>
+    Link to GutHub Commit : [Pushed 1st Feb 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/9af03789d5222ec4b4977f007b7fd0d956493987)
