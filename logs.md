@@ -67,3 +67,12 @@ This can be treated as my proof of work for the challenge.
     Also, I am taking hand written notes of this course for my future reference as well as better understanding in presence.✍️<br>
     It took me 1 Hr 15 mins to complete todays coding work⏱️(Including writing notes) <br>
     Link to GutHub Commit : [Pushed 1st Feb 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/9af03789d5222ec4b4977f007b7fd0d956493987)
+
+
+- ## Day-10 , 2nd Feb 2023 :
+    Today, I continued the FreeCodeCamp Backend cource in NodeJS and Express JS.📃<br>
+    Learnt about difference between syncronus and asyncronus file methods, wrote a program based on file handling, read & write operation on json file 💻.<br>
+    Also, I am taking hand written notes of this course for my future reference as well as better understanding in presence.✍️<br>
+    Also attended Shardeum Beta Net release watch party in chennai.<br>
+    It took me 1 Hr 20 mins to complete todays coding work⏱️(Including writing notes) <br>
+    Link to GutHub Commit : [Pushed 2nd Feb 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/ff4a51f8eb6d75639fbf74dac8e4135bf99a5f2e)
