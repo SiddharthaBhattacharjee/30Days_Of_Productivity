@@ -76,3 +76,9 @@ This can be treated as my proof of work for the challenge.
     Also attended Shardeum Beta Net release watch party in chennai.<br>
     It took me 1 Hr 20 mins to complete todays coding work⏱️(Including writing notes) <br>
     Link to GutHub Commit : [Pushed 2nd Feb 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/ff4a51f8eb6d75639fbf74dac8e4135bf99a5f2e)
+
+- ## Day-11 , 3rd Feb 2023 :
+    Today, I started working on an update for my timetable app as suggested by one of my professor's feedback on the app , working on a database storage system which will allow users to edit the time table.📃<br>
+    Started the implementation of this new storage system in a new branch using use states of java , it's still work in progress, Added the baseline code, some debugging is needed💻.<br>
+    It took me 2 Hr 30 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 3rd Feb 2023](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/eb7133c74f8c36bd69858735c8533ad89e221ab8)
