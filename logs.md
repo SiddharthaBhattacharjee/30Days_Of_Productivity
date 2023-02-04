@@ -82,3 +82,9 @@ This can be treated as my proof of work for the challenge.
     Started the implementation of this new storage system in a new branch using use states of java , it's still work in progress, Added the baseline code, some debugging is needed💻.<br>
     It took me 2 Hr 30 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 3rd Feb 2023](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/eb7133c74f8c36bd69858735c8533ad89e221ab8)
+
+- ## Day-12 , 4th Feb 2023 :
+    Today, I continued working on an update for my timetable app as suggested by one of my professor's feedback on the app , working on a database storage system which will allow users to edit the time table.📃<br>
+    Continued the bug fixes from where I left it yesterday and completed the useState system which is now ready to use, also made some UI changes to the home page.💻<br>
+    It took me 2 Hr 10 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 4th Feb 2023](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/d5a9ef8ba963c2e4c654d6adbec54ff58f26cfa6)
