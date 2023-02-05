@@ -88,3 +88,6 @@ This can be treated as my proof of work for the challenge.
     Continued the bug fixes from where I left it yesterday and completed the useState system which is now ready to use, also made some UI changes to the home page.💻<br>
     It took me 2 Hr 10 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 4th Feb 2023](https://github.com/SiddharthaBhattacharjee/CSE_D_TableApp/commit/d5a9ef8ba963c2e4c654d6adbec54ff58f26cfa6)
+
+- ## SUNDAY , 5th Feb 2023 :
+    sundays are break day !
