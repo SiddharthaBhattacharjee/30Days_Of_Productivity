@@ -91,3 +91,8 @@ This can be treated as my proof of work for the challenge.
 
 - ## SUNDAY , 5th Feb 2023 :
     sundays are break day !
+
+- ## Day-13 , 6th Feb 2023 :
+    Practiced DSA today in C, implemented stacks and solved a problem with stack. I am practicing DSA for the time being instead of working on projects or learning new skills because my exams are going on this week and I need some time to prepare for the exams.💻<br>
+    It took me 1 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 4th Feb 2023](https://github.com/SiddharthaBhattacharjee/DataStructuresAndAlgorithms_in_C/commit/d48165fd2d792aa0e837e060611739e21cf43fa4)
