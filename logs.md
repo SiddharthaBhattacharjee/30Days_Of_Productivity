@@ -95,4 +95,12 @@ This can be treated as my proof of work for the challenge.
 - ## Day-13 , 6th Feb 2023 :
     Practiced DSA today in C, implemented stacks and solved a problem with stack. I am practicing DSA for the time being instead of working on projects or learning new skills because my exams are going on this week and I need some time to prepare for the exams.💻<br>
     It took me 1 Hr to complete todays coding work⏱️<br>
-    Link to GutHub Commit : [Pushed 4th Feb 2023](https://github.com/SiddharthaBhattacharjee/DataStructuresAndAlgorithms_in_C/commit/d48165fd2d792aa0e837e060611739e21cf43fa4)
+    Link to GutHub Commit : [Pushed 6th Feb 2023](https://github.com/SiddharthaBhattacharjee/DataStructuresAndAlgorithms_in_C/commit/d48165fd2d792aa0e837e060611739e21cf43fa4)
+
+- ## 7th Feb 2023 :
+    Had to take a break due to excess fatigue , it was an extremely busy day, Had an event and exam on the same day, on top of that travelled 100KMs, needed some rest after all that.
+
+- ## Day-14 , 8th Feb 2023 :
+    Practiced DSA today in C, solved two problem with stack. I am practicing DSA for the time being instead of working on projects or learning new skills because my exams are going on this week and I need some time to prepare for the exams.💻<br>
+    It took me 1 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 8th Feb 2023](https://github.com/SiddharthaBhattacharjee/DataStructuresAndAlgorithms_in_C/commit/6d9e26ca7c5fdc7e6fb58e4c728d8e2669f3ff74)
