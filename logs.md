@@ -104,3 +104,9 @@ This can be treated as my proof of work for the challenge.
     Practiced DSA today in C, solved two problem with stack. I am practicing DSA for the time being instead of working on projects or learning new skills because my exams are going on this week and I need some time to prepare for the exams.💻<br>
     It took me 1 Hr to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 8th Feb 2023](https://github.com/SiddharthaBhattacharjee/DataStructuresAndAlgorithms_in_C/commit/6d9e26ca7c5fdc7e6fb58e4c728d8e2669f3ff74)
+
+- ## Day-15 , 9th Feb 2023 :
+    Started working on a python script that recognises and reads numberplates in real time using system cameras. Completed the implementation of the detection part, still need to implement the read part💻<br>
+    This project is going to be a part of the project I am working on for the college project exhibition, more on that later.<br>
+    It took me 5 Hr to complete todays coding work⏱️ (including the hectic process of installing pytorch and opencv and downgrading my python for module support)<br>
+    Link to GutHub Commit : [Pushed 9th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_NumberPlate_Detection_System/commit/aa4f3f84a5c7f5c7f6de13745d290840381a98e5)
