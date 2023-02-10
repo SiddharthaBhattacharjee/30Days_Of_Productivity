@@ -115,4 +115,4 @@ This can be treated as my proof of work for the challenge.
     Continued working on a python script that recognises and reads numberplates in real time using system cameras. Completed the reading part today, however the accuracy of the text recognition can be improved further💻<br>
     This project is going to be a part of the project I am working on for the college project exhibition, more on that later.<br>
     It took me 4 Hr to complete todays coding work⏱️ (including the hectic process of installing easyocr and tesseract)<br>
-    Link to GutHub Commit : [Pushed 10th Feb 2023]()
+    Link to GutHub Commit : [Pushed 10th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_NumberPlate_Detection_Reading_System/commit/e5528eb32a9ab584c15583c76c1986277c4d8875)
