@@ -110,3 +110,9 @@ This can be treated as my proof of work for the challenge.
     This project is going to be a part of the project I am working on for the college project exhibition, more on that later.<br>
     It took me 5 Hr to complete todays coding work⏱️ (including the hectic process of installing pytorch and opencv and downgrading my python for module support)<br>
     Link to GutHub Commit : [Pushed 9th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_NumberPlate_Detection_System/commit/aa4f3f84a5c7f5c7f6de13745d290840381a98e5)
+
+- ## Day-16 , 10th Feb 2023 :
+    Continued working on a python script that recognises and reads numberplates in real time using system cameras. Completed the reading part today, however the accuracy of the text recognition can be improved further💻<br>
+    This project is going to be a part of the project I am working on for the college project exhibition, more on that later.<br>
+    It took me 4 Hr to complete todays coding work⏱️ (including the hectic process of installing easyocr and tesseract)<br>
+    Link to GutHub Commit : [Pushed 10th Feb 2023]()
