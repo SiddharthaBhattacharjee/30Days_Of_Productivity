@@ -116,3 +116,9 @@ This can be treated as my proof of work for the challenge.
     This project is going to be a part of the project I am working on for the college project exhibition, more on that later.<br>
     It took me 4 Hr to complete todays coding work⏱️ (including the hectic process of installing easyocr and tesseract)<br>
     Link to GutHub Commit : [Pushed 10th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_NumberPlate_Detection_Reading_System/commit/e5528eb32a9ab584c15583c76c1986277c4d8875)
+
+- ## Day-17 , 11th Feb 2023 :
+    Created a smart contract specifically for the project I am working on for currently.💻<br>
+    Also Worked on a Hardhat implementation to deploy the project, this part is not yet finished and hence can't be pushed today, will be pushing this tomorrow<br>
+    It took me 3 Hr to complete todays coding work⏱️ (including the hardhat deployment part which I can't upload the code of today due to security reasons)<br>
+    Link to GutHub Commit : [Pushed 11th Feb 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/d66d006a4ff68ede32381077778779a762e4610e)
