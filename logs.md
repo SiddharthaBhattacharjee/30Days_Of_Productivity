@@ -122,3 +122,9 @@ This can be treated as my proof of work for the challenge.
     Also Worked on a Hardhat implementation to deploy the project, this part is not yet finished and hence can't be pushed today, will be pushing this tomorrow<br>
     It took me 3 Hr to complete todays coding work⏱️ (including the hardhat deployment part which I can't upload the code of today due to security reasons)<br>
     Link to GutHub Commit : [Pushed 11th Feb 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/d66d006a4ff68ede32381077778779a762e4610e)
+
+- ## Day-18 , 12th Feb 2023 :
+    Created a Python script that can access a deployed smartcontracted over any network.💻<br>
+    Also Worked on a Hardhat implementation to deploy the project, this part is finally finished today and the code has been uploaded.<br>
+    It took me 3 Hr 30 mins to complete todays coding work⏱️ <br>
+    Link to GutHub Commit : [Pushed 12th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_Script_To_Access_Deployed_Smartcontract/commit/f878df1ce7fea8dd58eb4fae8a4f8ce2b831a583)
