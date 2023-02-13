@@ -128,3 +128,10 @@ This can be treated as my proof of work for the challenge.
     Also Worked on a Hardhat implementation to deploy the project, this part is finally finished today and the code has been uploaded.<br>
     It took me 3 Hr 30 mins to complete todays coding work⏱️ <br>
     Link to GutHub Commit : [Pushed 12th Feb 2023](https://github.com/SiddharthaBhattacharjee/Python_Script_To_Access_Deployed_Smartcontract/commit/f878df1ce7fea8dd58eb4fae8a4f8ce2b831a583)
+
+- ## Day-19 , 13th Feb 2023 :
+    Started working on the HackVerse website , which is a project in codechef srm rmp organisation.💻<br>
+    Completed the setup and started the work on the Events page.<br>
+    It took me 2 Hr to complete todays coding work⏱️ <br>
+    Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
+    
