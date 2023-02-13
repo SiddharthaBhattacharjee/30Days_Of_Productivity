@@ -134,4 +134,4 @@ This can be treated as my proof of work for the challenge.
     Completed the setup and started the work on the Events page.<br>
     It took me 2 Hr to complete todays coding work⏱️ <br>
     Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
-    
+     
