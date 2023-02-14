@@ -135,3 +135,8 @@ This can be treated as my proof of work for the challenge.
     It took me 2 Hr to complete todays coding work⏱️ <br>
     Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
      
+- ## Day-20 , 14th Feb 2023 :
+    Continued working on the HackVerse website , which is a project in codechef srm rmp organisation.💻<br>
+   Started working on the Session Layout, can't share much information on the project as of now.<br>
+    It took me 3 Hr 20 mins to complete todays coding work⏱️ <br>
+    Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
