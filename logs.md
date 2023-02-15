@@ -140,3 +140,10 @@ This can be treated as my proof of work for the challenge.
    Started working on the Session Layout, can't share much information on the project as of now.<br>
     It took me 3 Hr 20 mins to complete todays coding work⏱️ <br>
     Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
+
+- ## Day-21 , 15th Feb 2023 :
+    Started working on the EthForAll projct in ReactJS.💻<br>
+    Created the connect metamask wallet page in React using EtherJS.<br>
+    Also organised a Basic Android workshop for High School Students , from CSE department of SRM Ramapuram. & Shardeum Campus Workshop in Easwari Engineering College.<br>
+    It took me 5 Hr 20 mins to complete todays coding work⏱️ (includin both the workshops)<br>
+    Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
