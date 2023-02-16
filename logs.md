@@ -147,3 +147,11 @@ This can be treated as my proof of work for the challenge.
     Also organised a Basic Android workshop for High School Students , from CSE department of SRM Ramapuram. & Shardeum Campus Workshop in Easwari Engineering College.<br>
     It took me 5 Hr 20 mins to complete todays coding work⏱️ (includin both the workshops)<br>
     Link to GutHub Commit : *Todays Code can't be linked as it is a part of a private repository*
+
+
+- ## Day-22 , 16th Feb 2023 :
+    Started working on the project expo project MallEX.💻<br>
+    Initialized the repo, added The server part, started working on the mall client and admin client part.<br>
+    Cannot go into much detail about the project right now, will be revealed out soon on Project Expo.<br>
+    It took me 5 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [pushed on 16th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/55d90d297440119b0e792d645f4f6bbdfdf72474)
