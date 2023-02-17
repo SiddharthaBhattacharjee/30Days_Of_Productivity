@@ -155,3 +155,10 @@ This can be treated as my proof of work for the challenge.
     Cannot go into much detail about the project right now, will be revealed out soon on Project Expo.<br>
     It took me 5 Hr to complete todays coding work⏱️<br>
     Link to GutHub Commit : [pushed on 16th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/55d90d297440119b0e792d645f4f6bbdfdf72474)
+    
+- ## Day-23 , 17th Feb 2023 :
+    Continued working on the project expo project MallEX.💻<br>
+    Completed the blockchan & Database integration part of Admin pannel and with that the admin pannel is ready to go.<br>
+    Cannot go into much detail about the project right now, will be revealed out soon on Project Expo.<br>
+    It took me 2 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [pushed on 17th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/9538ba9042826a3ed2cb4552cf830df5c6f68fe9)
