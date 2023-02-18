@@ -162,3 +162,9 @@ This can be treated as my proof of work for the challenge.
     Cannot go into much detail about the project right now, will be revealed out soon on Project Expo.<br>
     It took me 2 Hr to complete todays coding work⏱️<br>
     Link to GutHub Commit : [pushed on 17th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/9538ba9042826a3ed2cb4552cf830df5c6f68fe9)
+
+- ## Day-24 , 18th Feb 2023 :
+    Created a Smartcontract that mints and manages Dynamic NFTs using ERC 721 in Solidity.💻<br>
+    Also Conducted a workshop on SmartContract basics in VIT Chennai today.🎤<br>
+    It took me 2 Hr to complete todays coding work⏱️ (+ 3 hrs of workshop) <br>
+    Link to GutHub Commit : [pushed on 18th Feb 2023](https://github.com/SiddharthaBhattacharjee/Dynamic_NFT_SmartContract/commit/0f3399cbc05b3ed77313d96118e62879a6546810)
