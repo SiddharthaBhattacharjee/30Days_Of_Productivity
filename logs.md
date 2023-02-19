@@ -168,3 +168,11 @@ This can be treated as my proof of work for the challenge.
     Also Conducted a workshop on SmartContract basics in VIT Chennai today.🎤<br>
     It took me 2 Hr to complete todays coding work⏱️ (+ 3 hrs of workshop) <br>
     Link to GutHub Commit : [pushed on 18th Feb 2023](https://github.com/SiddharthaBhattacharjee/Dynamic_NFT_SmartContract/commit/0f3399cbc05b3ed77313d96118e62879a6546810)
+
+- ## Day-25 , 19th Feb 2023 :
+    Continued working on the project expo project MallEX.💻<br>
+    Completed the Mall side clint , added the exit controll and completed the entry controll with database and blockchain integration.<br>
+    Cannot go into much detail about the project right now, will be revealed out soon on Project Expo.<br>
+    Also conducted a workshop about Smart contract to mint Dinamic NFTs at IIT Madras Research park organised by Shardeum.<br>
+    It took me 2 Hr to complete todays coding work⏱️ (+ 2 hrs of workshop) <br>
+    Link to GutHub Commit : [pushed on 19th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/ed1944de3d934f7f847632be64501d7f96213810)
