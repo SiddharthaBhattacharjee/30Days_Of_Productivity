@@ -176,3 +176,9 @@ This can be treated as my proof of work for the challenge.
     Also conducted a workshop about Smart contract to mint Dinamic NFTs at IIT Madras Research park organised by Shardeum.<br>
     It took me 2 Hr to complete todays coding work⏱️ (+ 2 hrs of workshop) <br>
     Link to GutHub Commit : [pushed on 19th Feb 2023](https://github.com/SiddharthaBhattacharjee/Project_MallEZ/commit/ed1944de3d934f7f847632be64501d7f96213810)
+
+- ## Day-26 , 20th Feb 2023 :
+    Worked on a python script to combine PNG assets randomly generated unique PNGs.💻<br>
+    I'll be using this script in future with different assets for an NFT project.<br>
+    It took me 2 Hr to complete todays coding work⏱️(including 1 hr of making the assets in canva)<br>
+    Link to GutHub Commit : [pushed on 20th Feb 2023](https://github.com/SiddharthaBhattacharjee/Random_Image_Combination_Generator/commit/b22a3dfe8f4b1228e7b5bec2263db61c33ad6b54)
