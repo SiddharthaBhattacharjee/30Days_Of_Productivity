@@ -182,3 +182,11 @@ This can be treated as my proof of work for the challenge.
     I'll be using this script in future with different assets for an NFT project.<br>
     It took me 2 Hr to complete todays coding work⏱️(including 1 hr of making the assets in canva)<br>
     Link to GutHub Commit : [pushed on 20th Feb 2023](https://github.com/SiddharthaBhattacharjee/Random_Image_Combination_Generator/commit/b22a3dfe8f4b1228e7b5bec2263db61c33ad6b54)
+
+
+- ## Day-27 , 21th Feb 2023 :
+    Started a React & Solidity project, which is a Decentralised Voting System.💻<br>
+    This system will provide a safe, accessable and easy way for voters to vote from the comfort and privacy of their homes with ease. The system is safe from all exploits and attacks due to the security of using blockchain technology.⛓️<br>
+    Completed the Smartcontract in Solidity and deployed it successfully using Hardhat, initialized the frontend react client ✔️<br>
+    It took me 3 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [pushed on 21th Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/8e80bb24f26c51b828ce9b727d16cfa2eb53981c)
