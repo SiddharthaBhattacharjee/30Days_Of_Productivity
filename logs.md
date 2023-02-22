@@ -184,9 +184,15 @@ This can be treated as my proof of work for the challenge.
     Link to GutHub Commit : [pushed on 20th Feb 2023](https://github.com/SiddharthaBhattacharjee/Random_Image_Combination_Generator/commit/b22a3dfe8f4b1228e7b5bec2263db61c33ad6b54)
 
 
-- ## Day-27 , 21th Feb 2023 :
+- ## Day-27 , 21st Feb 2023 :
     Started a React & Solidity project, which is a Decentralised Voting System.💻<br>
     This system will provide a safe, accessable and easy way for voters to vote from the comfort and privacy of their homes with ease. The system is safe from all exploits and attacks due to the security of using blockchain technology.⛓️<br>
     Completed the Smartcontract in Solidity and deployed it successfully using Hardhat, initialized the frontend react client ✔️<br>
     It took me 3 Hr to complete todays coding work⏱️<br>
-    Link to GutHub Commit : [pushed on 21th Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/8e80bb24f26c51b828ce9b727d16cfa2eb53981c)
+    Link to GutHub Commit : [pushed on 21st Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/8e80bb24f26c51b828ce9b727d16cfa2eb53981c)
+
+- ## Day-28 , 22nd Feb 2023 :
+    Continued working on the Decentralised Voting System.(ReactJS + Solidity hardhat project) 💻<br>
+    Started working on the client React app, completed the login part and started implementing the owner part of the client. ✔️<br>
+    It took me 4 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [pushed on 22nd Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/d6877d05ae38b130024359d4dc0e0aea6c9990d9)
