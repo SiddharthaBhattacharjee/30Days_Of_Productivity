@@ -196,3 +196,10 @@ This can be treated as my proof of work for the challenge.
     Started working on the client React app, completed the login part and started implementing the owner part of the client. ✔️<br>
     It took me 4 Hr to complete todays coding work⏱️<br>
     Link to GutHub Commit : [pushed on 22nd Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/d6877d05ae38b130024359d4dc0e0aea6c9990d9)
+
+- ## Day-29 , 23rd Feb 2023 :
+    Continued working on the Decentralised Voting System.(ReactJS + Solidity hardhat project) 💻<br>
+    Added the blockcchain dependencies and made progress on the admin pannel. ✔️<br>
+    Also was busy today, as I am in judging panel of Ideathon.<br>
+    It took me 2 Hr to complete todays coding work⏱️( + 2 hrs of Ideathon judging)<br>
+    Link to GutHub Commit : [pushed on 23rd Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/ef709ce33ebf81b4c7ce831f4b8c473c647a4857)
