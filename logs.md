@@ -203,3 +203,12 @@ This can be treated as my proof of work for the challenge.
     Also was busy today, as I am in judging panel of Ideathon.<br>
     It took me 2 Hr to complete todays coding work⏱️( + 2 hrs of Ideathon judging)<br>
     Link to GutHub Commit : [pushed on 23rd Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/ef709ce33ebf81b4c7ce831f4b8c473c647a4857)
+
+- ## Day-30 , 24th Feb 2023 :
+    Finished Up the Decentralised Voting System Project.(ReactJS + Solidity hardhat project) 💻<br>
+    Completed the admin panel and completed the voter side with full implentation of smartcontract completed.✔️<br>
+    It took me 6 Hr to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [pushed on 24th Feb 2023](https://github.com/SiddharthaBhattacharjee/Decentralized_Voting_System/commit/a2b8dd041351583048dc95533e0c8387f9c2c4e8)
+    
+It has been a great experience participating in 30 Days of Productivity ✨, Thanks CodeChef SRM Ramapuram for organising this amazing challange and motivating us to take up this challenge ❤️. This has helped me a lot to enhance my consistancy 💪. Will try to keep the consistancy going 🔥.<br>
+[#100DaysOfProductivity](https://github.com/SiddharthaBhattacharjee/100Days-of-Code) Done ✔️ [#30DaysOfProductivity](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity) Done ✔️ What Challenge should I take up Next 👀?
