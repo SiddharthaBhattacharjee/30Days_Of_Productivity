@@ -212,3 +212,15 @@ This can be treated as my proof of work for the challenge.
     
 It has been a great experience participating in 30 Days of Productivity ✨, Thanks CodeChef SRM Ramapuram for organising this amazing challange and motivating us to take up this challenge ❤️. This has helped me a lot to enhance my consistancy 💪. Will try to keep the consistancy going 🔥.<br>
 [#100DaysOfProductivity](https://github.com/SiddharthaBhattacharjee/100Days-of-Code) Done ✔️ [#30DaysOfProductivity](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity) Done ✔️ What Challenge should I take up Next 👀?
+<br>
+<br>
+
+# 30 Days of Productivity V2.0 : 
+I am taking up the challenge again with everyone else in CodeChef Family. This time we all will be doing it together with an aim to complete the challenge with everyone else and boost our collective productivity to the next level 🔥 Here we go...
+
+- ## Day-1 , 29th March 2023 :
+    Today, I started working on complete reconstruction of my Portfolio website. This time I am making it in ReactJS (earlier version is in HTML+CSS+JS and is non responsive too) I will be making huge improvements on the design and performance.🗒️<br>
+    I will be working slowly on this project, chipping away at it bit by bit while also working on other more urgent works.<br>
+    I have completed implementing the Router Dom structure and completed the Base Layout and the Navbar.💻<br>
+    It took me 2 Hrs 20 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 29th March 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/e9a77bd5646bcdcc8dccdebb5dce442da312cc3a)
