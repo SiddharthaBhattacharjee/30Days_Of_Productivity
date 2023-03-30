@@ -224,3 +224,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     I have completed implementing the Router Dom structure and completed the Base Layout and the Navbar.💻<br>
     It took me 2 Hrs 20 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 29th March 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/e9a77bd5646bcdcc8dccdebb5dce442da312cc3a)
+
+- ## Day-2 , 30th March 2023 :
+    Today, I created simple demo smartcontracts to demonstrate DeFi using Remix IDE. I studied about DeFi to understand the concepts and application of DeFi, and then implemented an ERC20 Token contract and a DeFi contract to demonstrate the concepts. This is in preparation for an upcoming Workshop🗒️<br>
+    Studied about DeFi, Wrote deployed and Tested the ERC20 & DeFi contracts and tested their integration with each other.✔️<br>
+    It took me 3 Hrs 10 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 30th March 2023](https://github.com/SiddharthaBhattacharjee/Basic_DeFi_smartcontract/commit/e5817c10a02c00823624b73672edca300b66e155)
