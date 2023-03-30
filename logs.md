@@ -227,6 +227,7 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
 
 - ## Day-2 , 30th March 2023 :
     Today, I created simple demo smartcontracts to demonstrate DeFi using Remix IDE. I studied about DeFi to understand the concepts and application of DeFi, and then implemented an ERC20 Token contract and a DeFi contract to demonstrate the concepts. This is in preparation for an upcoming Workshop🗒️<br>
+    For this demo, the ERC20 Token will act like our standard token and DeFi is having its own Token which it can give in exchange for ERC20 tokens on Deposit, on withdrawl, the DeFi tokens are destroyed and the ERC20 tokens are returned to the user.💻<br>
     Studied about DeFi, Wrote deployed and Tested the ERC20 & DeFi contracts and tested their integration with each other.✔️<br>
     It took me 3 Hrs 10 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 30th March 2023](https://github.com/SiddharthaBhattacharjee/Basic_DeFi_smartcontract/commit/e5817c10a02c00823624b73672edca300b66e155)
