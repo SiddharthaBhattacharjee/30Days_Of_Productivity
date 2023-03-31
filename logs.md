@@ -231,3 +231,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Studied about DeFi, Wrote deployed and Tested the ERC20 & DeFi contracts and tested their integration with each other.✔️<br>
     It took me 3 Hrs 10 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 30th March 2023](https://github.com/SiddharthaBhattacharjee/Basic_DeFi_smartcontract/commit/e5817c10a02c00823624b73672edca300b66e155)
+
+- ## Day-3 , 31th March 2023 :
+    Today, I continued working on my Portfolio website.🗒️<br>
+    I have created the footer and started working on the home page. still a bit conflicted on what point of attraction to put in there, but 80% of the basics are done for the home page. Slowly progressing forward in the project💻<br>
+    It took me 1 Hrs 50 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 31th March 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/059259a67ad3f08cb0241f3bdbe4259815492961)
