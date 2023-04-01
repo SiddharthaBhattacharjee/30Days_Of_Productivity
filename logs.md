@@ -237,3 +237,13 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     I have created the footer and started working on the home page. still a bit conflicted on what point of attraction to put in there, but 80% of the basics are done for the home page. Slowly progressing forward in the project💻<br>
     It took me 1 Hrs 50 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 31th March 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/059259a67ad3f08cb0241f3bdbe4259815492961)
+    
+- ## Day-4 , 1st April 2023 :
+
+    Today, I organised a Shardeum event at Kana Labs office, and studied more about DeFi in preparation for tomorrows event.🗒️<br>
+
+    In the Shardeum event, I discussed about BlockChain, web3 , Shardeum , and demonstrated Smartcontracts and D-apps.💻<br>
+
+    The event was 3 hrs long, I was speaking for 1.5 hrs and Organised for the remaining 1.5 hrs , other than that , studied about DeFi smart contracts for 1 hrs.⏱️<br>
+
+
