@@ -246,4 +246,16 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
 
     The event was 3 hrs long, I was speaking for 1.5 hrs and Organised for the remaining 1.5 hrs , other than that , studied about DeFi smart contracts for 1 hrs.⏱️<br>
 
+- ## Day-5 , 2nd April 2023 :
+
+    Today, I conducted a workshop on DeFi at IIT Madras in the event organised by Finance Club of IIT Madras.🗒️<br>
+
+    In this workshop, I discussed about BlockChain, DeFi basics and demonstrated a Smartcontract in Solidity which implemented a simple ERC20 and DeFi interaction.💻<br>
+
+    Other than my own workshop, I have attended the session by Karthik Sir of Kana Labs and the Speaker Pannel on how to build a better Web3 developer environment.<be>
+
+    My workshop was 1 hour long , and I have attended 3 hours of sessions , which brings the total to 4 hours.⏱️<br>
+
+
+
 
