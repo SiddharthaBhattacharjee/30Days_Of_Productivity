@@ -256,6 +256,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
 
     My workshop was 1 hour long , and I have attended 3 hours of sessions , which brings the total to 4 hours.⏱️<br>
 
-
-
+- ## Day-6 , 3rd April 2023 :
+    Today, I continued working on my Portfolio website.🗒️<br>
+    I have continued adding stuff to the home page, started by restructuring the contents of homepage in a better manner , then added more content, and lastly added a snake game to the home page. The snake game is fully functional but the design of the game still needs to be worked on.💻<br>
+    It took me 2 Hrs 10 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 3rd April 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/79fa96fc85455eef87fa7a87c845bb13c56f2ee1)
 
