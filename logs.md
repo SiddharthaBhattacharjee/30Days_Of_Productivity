@@ -262,3 +262,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     It took me 2 Hrs 10 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 3rd April 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/79fa96fc85455eef87fa7a87c845bb13c56f2ee1)
 
+- ## Day-7 , 4th April 2023 :
+    Today, I continued working on my Portfolio website.🗒️<br>
+    I finally completed the first out of four pages for the portfolio website, the Home page is completed. Completed the styling and structuring of Snake game part and made some cleanup changes. Will keep making small but stedy progress in this project throughout the days.💻<br>
+    It took me 2 Hrs to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 4th April 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/d0ded671d300c9a259970a746249d7d971fdce55)
