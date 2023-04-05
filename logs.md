@@ -268,7 +268,7 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     It took me 2 Hrs to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 4th April 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/d0ded671d300c9a259970a746249d7d971fdce55)
 
-    - ## Day-8 , 5th April 2023 :
+- ## Day-8 , 5th April 2023 :
     Today, I created a E-Certificate generator using python which is very simple to use.💻<br>
     Other than that I have to write assignments and Records as all the submission dates are approaching 😢 Code mode ends , grind mode starts ✍️<br>
     It took me 2 Hrs to complete todays coding work⏱️<br>
