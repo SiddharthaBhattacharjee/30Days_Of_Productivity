@@ -273,3 +273,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Other than that I have to write assignments and Records as all the submission dates are approaching 😢 Code mode ends , grind mode starts ✍️<br>
     It took me 2 Hrs to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 5th April 2023](https://github.com/SiddharthaBhattacharjee/E-Certificate_Generator/commit/e24cf9f3c2cb72ffc6c5c6c361d04059d77d97f5)
+
+- ## Day-9 , 6th April 2023 :
+    Today, I created a simple ERC20 Smartcontract to Demonstrate ERC20 in solidity for my upcoming events.💻<br>
+    Also got my 5ierChain wallet setup and tried out the 5ier IDE for the event. Studied about ERC20 and Fire in preparation for the event.✍️ appart from that, still have lots of assignments and Records to write for college😢<br>
+    It took me 1 Hrs 40 mins to complete todays coding work⏱️<br>
+    Link to GutHub Commit : [Pushed 6th April 2023](https://github.com/SiddharthaBhattacharjee/Simple_ERC20_Demo/commit/8981e2caa65dd152ea6fcaf26c552aff10c73615)
