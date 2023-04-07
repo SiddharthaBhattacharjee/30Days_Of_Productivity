@@ -279,3 +279,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Also got my 5ierChain wallet setup and tried out the 5ier IDE for the event. Studied about ERC20 and Fire in preparation for the event.✍️ appart from that, still have lots of assignments and Records to write for college😢<br>
     It took me 1 Hrs 40 mins to complete todays coding work⏱️<br>
     Link to GutHub Commit : [Pushed 6th April 2023](https://github.com/SiddharthaBhattacharjee/Simple_ERC20_Demo/commit/8981e2caa65dd152ea6fcaf26c552aff10c73615)
+
+- ## Day-10 , 7th April 2023 :
+    Today, I studied about Sustainable Blockchain concensus and started studying about operating nodes in Blockchain ✍️, other than that, I attended CodeChef meeting in Basant Nagar Beach.<br>
+    Couldn't do much coding today as Today I was more focused on studying about how to get started with node operating. This is in preparation for my upcoming Blockchain events and other future plans. Also most of my day was spent at Basant Nagar Beach with codeChef family.<br>
+    I spent 1 Hr studying Today⏱️<br>
