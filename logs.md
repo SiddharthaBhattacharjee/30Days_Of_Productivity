@@ -284,3 +284,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Today, I studied about Sustainable Blockchain concensus and started studying about operating nodes in Blockchain ✍️, other than that, I attended CodeChef meeting in Basant Nagar Beach.<br>
     Couldn't do much coding today as Today I was more focused on studying about how to get started with node operating. This is in preparation for my upcoming Blockchain events and other future plans. Also most of my day was spent at Basant Nagar Beach with codeChef family.<br>
     I spent 1 Hr studying Today⏱️<br>
+
+- ## Day-11 , 8th April 2023 :
+    Today, I conducted a Blockchain workshop at VIT chennai Web3 Sangam event.🎤<br>
+    In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
+    My part in the event was 1 hour long out of which I spoke for 30 mins & hands on demo was 30 mins. Appart from that , I attended the sessions of other speakers for 4 hours.⏱️<br>
