@@ -295,3 +295,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
     Also had some off topic discussions on AI, Industrial Revolution, & technology in general 😛<br>
     My part in the event was 2 hour 15 mins long out of which I spoke for 1.5 hrs & 1.25 hrs of hands-on workshop. Also attended the speaker sessions which was another 2 hours⏱️<br>
+
+- ## Day-13 , 10th April 2023 :
+    Today, I conducted a Blockchain workshop at Pondicherry University Web3 Sangam event.🎤<br>
+    In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
+    My part in the event was 1 hr 15 mins long out of which I spoke for 15 mins & 1 hrs of hands-on workshop. Also attended the speaker sessions which was another 4 hours⏱️<br>
