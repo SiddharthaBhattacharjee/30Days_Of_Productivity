@@ -290,7 +290,7 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
     My part in the event was 1 hour long out of which I spoke for 30 mins & hands on demo was 30 mins. Appart from that , I attended the sessions of other speakers for 4 hours.⏱️<br>
 
-- ## Day-12 , 9th April 2023 :
+- ## Day-12 , 9th April 2023 : 
     Today, I conducted a Blockchain workshop at IIT Madras Research Park Web3 Sangam event.🎤<br>
     In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
     Also had some off topic discussions on AI, Industrial Revolution, & technology in general 😛<br>
@@ -300,3 +300,10 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Today, I conducted a Blockchain workshop at Pondicherry University Web3 Sangam event.🎤<br>
     In the workshop, I spoke about blockchain, web3, 5ire Chain, Concensus, and Smartcontracts. Then in the hands-on part , I demonstrated how to install 5ire wallet extension, then I explained a simple ERC20 smartcontract on solidity and taught how to deploy it on 5ierChain. 🗒️<br>
     My part in the event was 1 hr 15 mins long out of which I spoke for 15 mins & 1 hrs of hands-on workshop. Also attended the speaker sessions which was another 4 hours⏱️<br>
+    
+- ## Day-14 , 11th April 2023 :
+    Today, I continued learning backend in node.✍️<br>
+    Practiced sunchronus and Asynchronus file reading operations, and started learning http module. 🗒️<br>
+    Couldn't do more than that today, since have lot of record work to right 😢<br>
+    It took me 1 hour to complete todays work ⏱️<br>
+    Link to GitHub Commit : [Pushed 14th April 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/3452c397906959101726f90ee61c72737fdcb8ba)
