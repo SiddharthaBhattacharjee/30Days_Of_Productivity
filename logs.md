@@ -307,3 +307,10 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Couldn't do more than that today, since have lot of record work to right 😢<br>
     It took me 1 hour to complete todays work ⏱️<br>
     Link to GitHub Commit : [Pushed 14th April 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/3452c397906959101726f90ee61c72737fdcb8ba)
+
+- ## Day-15 , 12th April 2023 :
+    Today, I continued learning backend in node.✍️<br>
+    Took a deeper dive at HTTP module, learnt about get request and post request and created three progrms based on that.🗒️<br>
+    Also studied about Q-bits, Quantum Computing and Quantum-Proof Encryption at a very basic level. A bit off topic but Couldn't help my curiosity. 🤓<br>
+    It took me 2 hour to complete todays work ⏱️<br>
+    Link to GitHub Commit : [Pushed 15th April 2023](https://github.com/SiddharthaBhattacharjee/Learning_Backend/commit/1b31135d8b9a0c53d0d5af77c8e93a43c7b929c7)
