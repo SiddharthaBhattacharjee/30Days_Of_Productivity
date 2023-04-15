@@ -320,3 +320,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Started created the 404 page with some cool glitch effects and ester eggs. Theres still some work to be done on this page.<br>
     It took me 1 hour 30 mins to complete todays work ⏱️<br>
     Link to GitHub Commit : [Pushed 13th April 2023](https://github.com/SiddharthaBhattacharjee/myPortfolio/commit/41dc9ba6ec7b12bc4574b1f675c09080b74e2de0)
+
+- ## Day-17 , 15th April 2023 :
+    Today, I wrote a simple demo ERC721 smart contract on solidity and tested it on remix ide. 💻<br>
+    Am a part of the organising team of HACKVERSE, TamilNadus largest web3 hackathon, hence I am here all the time for full 36 hours, hence couldn't code much, but my contributions to the Hackathon is going to be productive for more people.🗒️<br>
+    It took me approx 1 hour to complete todays work ⏱️<br>
+    Link to GitHub Commit : [Pushed 15th April 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/014d373c6590f7bbed9f0ebfe9ff7bc6865dbb3c)
