@@ -326,3 +326,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Am a part of the organising team of HACKVERSE, TamilNadus largest web3 hackathon, hence I am here all the time for full 36 hours, hence couldn't code much, but my contributions to the Hackathon is going to be productive for more people.🗒️<br>
     It took me approx 1 hour to complete todays work ⏱️<br>
     Link to GitHub Commit : [Pushed 15th April 2023](https://github.com/SiddharthaBhattacharjee/General_SmartContracts/commit/014d373c6590f7bbed9f0ebfe9ff7bc6865dbb3c)
+
+- ## Day-18 , 16th April 2023 :
+    Today, I was at frontline of Hackverse the whole day🔥<br>
+    Helped the teams with Blockchain stacks , Blockchain integration and deployment problems ✅ also reviewed the code of the teams at the judging panel🔍<br>
+    Couldn't write code today as I was busy with Hackverse all day , but the work we put in was not only productive to us, it was productive for a lot of people 😌<br>
