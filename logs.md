@@ -337,4 +337,10 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Completed the base algorithm to find the shortest route between two cities in Javascript, tomorrow will start with the frontend & backend implementation.<br>
     This post is coming 1 day late because yesterday our Internet was down due to which I couldn't push my code.<br>
     It took me 1 hr 20 mins to complete the work ⏱️<br>
-    Link ti GitHub Commit : [Pushed 18th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/4ea4f2a7432881a168e81a881452c822831ceb69)
+    Link to GitHub Commit : [Pushed 18th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/4ea4f2a7432881a168e81a881452c822831ceb69)
+
+- ## Day-20 , 19th April 2023 :
+    Today, I continued working on my SEPM Semester project which is Cheapest Flight booking System. 💻<br>
+    Completed the Connect Wallet page i.e. the landing page of the project, tomorrow will start building the smartcontract to manage the backend.<br>
+    It took me 1 hr 40 mins to complete the work ⏱️<br>
+    Link to GitHub Commit : [Pushed 19th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/0a7933abe9fd913325be14cf83b18e391e5b2d70)
