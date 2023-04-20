@@ -344,3 +344,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Completed the Connect Wallet page i.e. the landing page of the project, tomorrow will start building the smartcontract to manage the backend.<br>
     It took me 1 hr 40 mins to complete the work ⏱️<br>
     Link to GitHub Commit : [Pushed 19th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/0a7933abe9fd913325be14cf83b18e391e5b2d70)
+
+- ## Day-21 , 20th April 2023 :
+    Today, I continued working on my SEPM Semester project which is Cheapest Flight booking System. 💻<br>
+    Completed the smartcontract which will be managing the data of users on the blockchain. wrote the smartcontract in Solidity using remix.<br>
+    It took me 1 hr 30 mins to complete the work ⏱️<br>
+    Link to GitHub Commit : [Pushed 20th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/fb3c7e1b03fa53654c1d034f8d00caf05964eafa)
