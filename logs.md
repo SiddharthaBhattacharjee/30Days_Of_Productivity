@@ -350,3 +350,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Completed the smartcontract which will be managing the data of users on the blockchain. wrote the smartcontract in Solidity using remix.<br>
     It took me 1 hr 30 mins to complete the work ⏱️<br>
     Link to GitHub Commit : [Pushed 20th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/fb3c7e1b03fa53654c1d034f8d00caf05964eafa)
+
+- ## Day-22 , 21th April 2023 :
+    Today, I solved some Programming problems in HackerRank as a part of the CCC Test. 💻<br>
+    The test consisted of some MCQs , a DBMS problem , a web development problem and a programming problem.<br>
+    It took me 1 hr 30 mins to complete the work (which was the duration of test)⏱️<br>
