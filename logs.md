@@ -351,7 +351,13 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     It took me 1 hr 30 mins to complete the work ⏱️<br>
     Link to GitHub Commit : [Pushed 20th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/fb3c7e1b03fa53654c1d034f8d00caf05964eafa)
 
-- ## Day-22 , 21th April 2023 :
+- ## Day-22 , 21st April 2023 :
     Today, I solved some Programming problems in HackerRank as a part of the CCC Test. 💻<br>
     The test consisted of some MCQs , a DBMS problem , a web development problem and a programming problem.<br>
     It took me 1 hr 30 mins to complete the work (which was the duration of test)⏱️<br>
+
+- ## Day-23 , 22nd April 2023 :
+    Today, I continued working on my SEPM Semester project which is Cheapest Flight booking System. 💻<br>
+    Completed the entire backend part which included setting up a hardhat enviornment and deployig the contract on the prefered network.<br>
+    It took me 1 hr 20 mins to complete the work ⏱️<br>
+    Link to GitHub Commit : [Pushed 22nd April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/fad064febc63fbb9e3f99af25d0ea4f99f683919)
