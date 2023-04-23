@@ -361,3 +361,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Completed the entire backend part which included setting up a hardhat enviornment and deployig the contract on the prefered network.<br>
     It took me 1 hr 20 mins to complete the work ⏱️<br>
     Link to GitHub Commit : [Pushed 22nd April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/fad064febc63fbb9e3f99af25d0ea4f99f683919)
+
+- ## Day-24 , 23rd April 2023 :
+    Today, I continued working on my SEPM Semester project which is Cheapest Flight booking System. 💻<br>
+    Made progress in the frondend part by completing the flight booking part along with the flight searching part and integrated it with the deployed smartcontract.<br>
+    It took me 3 hr 40 mins to complete the work ⏱️ (Lots of de-bugging and restructuring was needed, clearly visible by the 2K+ changes in the last push) <br>
+    Link to GitHub Commit : [Pushed 23rd April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/dd74908b80e4c1fc44bdc591ebc29b4a0f75e523#diff-700bde2449c4d70123c8cfdbca47c416849428e7856786d53d7a0b7c914d1208)
