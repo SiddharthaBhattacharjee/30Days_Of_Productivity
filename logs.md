@@ -367,3 +367,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Made progress in the frondend part by completing the flight booking part along with the flight searching part and integrated it with the deployed smartcontract.<br>
     It took me 3 hr 40 mins to complete the work ⏱️ (Lots of de-bugging and restructuring was needed, clearly visible by the 2K+ changes in the last push) <br>
     Link to GitHub Commit : [Pushed 23rd April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/dd74908b80e4c1fc44bdc591ebc29b4a0f75e523#diff-700bde2449c4d70123c8cfdbca47c416849428e7856786d53d7a0b7c914d1208)
+
+- ## Day-25 , 24th April 2023 :
+    Today, I Finally Finished my SEPM Semester project which is Cheapest Flight booking System. 💻<br>
+    Completed the project today, added the ticket list, the safety overlay, & some final finishing touches. When I mention my work task wise, it does'nt sound like I did a lot, but I sure did wrote and debug a lot of code today , can be seen in the commit.<br>
+    It took me 2 hr 15 mins to complete today's work ⏱️<br>
+    Link to GitHub Commit : [Pushed 24th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/1dc9d5ecefb89c34e48eb9f52c67e04cdb7402fe)
