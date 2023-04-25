@@ -373,3 +373,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Completed the project today, added the ticket list, the safety overlay, & some final finishing touches. When I mention my work task wise, it does'nt sound like I did a lot, but I sure did wrote and debug a lot of code today , can be seen in the commit.<br>
     It took me 2 hr 15 mins to complete today's work ⏱️<br>
     Link to GitHub Commit : [Pushed 24th April 2023](https://github.com/SiddharthaBhattacharjee/CheapestFlight_SEPM_Project/commit/1dc9d5ecefb89c34e48eb9f52c67e04cdb7402fe)
+
+    - ## Day-26 , 25th April 2023 :
+    Today, I Practiced some Advanced Topics of Python as I am having a test tomorrow for the same. 💻<br>
+    Covered topics such as TCP & UDP Client-Server pair, sqlite3 Database connectivity, pyDatalog, sympy, and Basic Autometa in python.<br>
+    It took me 3 hrs to complete today's work ⏱️<br>
+    Link to GitHub Commit : [Pushed 25th April 2023](https://github.com/SiddharthaBhattacharjee/Advanced_Python_Practice/commit/717714c8f5698b42b7e1be1ca4abe671a305b566)
