@@ -379,3 +379,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Covered topics such as TCP & UDP Client-Server pair, sqlite3 Database connectivity, pyDatalog, sympy, and Basic Autometa in python.<br>
     It took me 3 hrs to complete today's work ⏱️<br>
     Link to GitHub Commit : [Pushed 25th April 2023](https://github.com/SiddharthaBhattacharjee/Advanced_Python_Practice/commit/717714c8f5698b42b7e1be1ca4abe671a305b566)
+
+- ## Day-27 , 27th April 2023 :
+    Today, I Practiced Network configuration concepts in CISCO packet Tracer. 💻<br>
+    Tomorrow, I have a practical examination for Computer Communication and hence, I am practicing network element configuration on CISCO Packet Tracer Simulation Tool.<br>
+    Appart from that, studying Queueing theory in mathematics for my upcoming math exam.<br>
+    It took me 4 hrs to complete today's work ⏱️ (still going on with math...)<br>
