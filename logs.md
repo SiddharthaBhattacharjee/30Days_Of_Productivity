@@ -385,3 +385,9 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Tomorrow, I have a practical examination for Computer Communication and hence, I am practicing network element configuration on CISCO Packet Tracer Simulation Tool.<br>
     Appart from that, studying Queueing theory in mathematics for my upcoming math exam.<br>
     It took me 4 hrs to complete today's work ⏱️ (still going on with math...)<br>
+
+- ## Day-28 , 28th April 2023 :
+    Today, I Started working on a new project which is a automated custom email bot using python. 💻<br>
+    This script can process a spreadsheet, generate custom emails and attachments based on spreadsheet data for each user and send the mail all automatically when its finished. As of today, the first stage of the development is complete, which was establishing connection with the Google OAuth Credentials API. Now the project is able to connect to the API, however the development cannot progress any further today as I am waiting for verification of my project from google.<br>
+    It took me 3 hrs to complete today's work ⏱️<br>
+    Link to GitHub Commit : [Pushed 28th April 2023](https://github.com/SiddharthaBhattacharjee/Auto_Email_Bot_Python/commit/fd69edc77935ac3d154249e9f3f58c4d15e3895c)
