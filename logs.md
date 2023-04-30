@@ -396,3 +396,15 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     Today, I practiced maths Probability and Queueing Theorems for my upcoming exam.<br>
     Maths is a non practical subject , hence the Unit tests play a major part in the total GPA as it contributes towards 50% of total marks as internals. Hence it is very important that CT marks for maths are as high as possible. <br>
     It took me 6 hrs to complete today's work ⏱️<br>
+    
+- ## Day-30 , 30th April 2023 :
+    Today, I created a new python project which is a perfect one to end this journey of 30DaysOfProductivity.💻<br>
+    The Python Project converts MarkDown files to HTML files as well as HTML files to MarkDown Files. I made this project as I intend to convert this daily logs into a simple HTML web page so that it can be hosted & made easily accessable. After commiting this very entry, I'll use the script to convert this markdown into an html page & host it on github. <br>
+    Other than that, still studying maths, can't afford to loose any marks on CT 3 😅<br>
+    It took me 2 hrs to complete today's coding work & rest of the day is spent studying maths. ⏱️<br>
+    Link to GitHub Commit : [Pushed 30th April 2023](https://github.com/SiddharthaBhattacharjee/MD_HTML_Converter_Python/commit/a625a84083a809bbd4402c0e923a1832fcb80650)
+    
+And it's a wrap 🥳
+It has been a great experience participating in 30 Days of Productivity Again ✨ This time with the full codechef family, Thanks CodeChef SRM Ramapuram for organising this amazing challange and motivating us to take up this challenge ❤️. This has helped me a lot to enhance my consistancy 💪. Will try to keep the consistancy going 🔥.<br>
+[#100DaysOfCode](https://github.com/SiddharthaBhattacharjee/100Days-of-Code) Done ✔️ [#30DaysOfProductivity](https://github.com/SiddharthaBhattacharjee/30Days_Of_Productivity) Done Twice Now ✔️ What Challenge should I take up Next 👀?
+<br>
