@@ -391,3 +391,8 @@ I am taking up the challenge again with everyone else in CodeChef Family. This t
     This script can process a spreadsheet, generate custom emails and attachments based on spreadsheet data for each user and send the mail all automatically when its finished. As of today, the first stage of the development is complete, which was establishing connection with the Google OAuth Credentials API. Now the project is able to connect to the API, however the development cannot progress any further today as I am waiting for verification of my project from google.<br>
     It took me 3 hrs to complete today's work ⏱️<br>
     Link to GitHub Commit : [Pushed 28th April 2023](https://github.com/SiddharthaBhattacharjee/Auto_Email_Bot_Python/commit/fd69edc77935ac3d154249e9f3f58c4d15e3895c)
+
+- ## Day-29 , 29th April 2023 :
+    Today, I practiced maths Probability and Queueing Theorems for my upcoming exam.<br>
+    Maths is a non practical subject , hence the Unit tests play a major part in the total GPA as it contributes towards 50% of total marks as internals. Hence it is very important that CT marks for maths are as high as possible. <br>
+    It took me 6 hrs to complete today's work ⏱️<br>
